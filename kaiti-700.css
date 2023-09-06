@@ -3,6 +3,6 @@
     font-style: normal;
     font-display: swap;
     font-weight: "bold";
-    src: url('./Kaiti.ttf') format('truetype');
+    src: url('https://github.com/incredibleray/fonts/raw/main/Kaiti.ttf') format('truetype');
     unicode-range: U+4E00-9FFF;
   }
