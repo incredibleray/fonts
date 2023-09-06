@@ -3,6 +3,6 @@
     font-style: normal;
     font-display: swap;
     font-weight: "bold";
-    src: url('./OLDENGL.TTF') format('truetype');
+    src: url('https://github.com/incredibleray/fonts/raw/main/OLDENGL.TTF') format('truetype');
     unicode-range: U+0020-007F;
   }
