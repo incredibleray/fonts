@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'SimHei';
+    font-style: normal;
+    font-display: swap;
+    src: url('./simhei.ttf') format('truetype');
+    unicode-range: U+4E00-9FFF;
+  }
